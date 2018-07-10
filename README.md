@@ -198,4 +198,4 @@ node index.js
 
 **更多关于 Node.js 转发 api 请求，请戳完整项目：[node-proxy-api](https://github.com/superman66/node-proxy-api)**
 # 关于vuex
-如果你想了解vuex的用法，可以切换到`vuex`分支，在该分支下，所有的state都采用vuex来管理
+如果你想了解vuex的用法，可以切换到`vuex`分支，在该分支下，所有的state都采用vuex来管理。
